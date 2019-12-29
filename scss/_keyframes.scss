@@ -1,0 +1,17 @@
+@keyframes ls {
+	0% { letter-spacing: 0.4vmin }
+	50% { letter-spacing: 0.2vmin }
+	100% { letter-spacing: 0.4vmin; }
+}
+
+@-webkit-keyframes map {
+	0% { opacity: 1; }
+	50% { opacity: 0.3; }
+	100% { opacity: 1; }
+}
+
+@keyframes map {
+	0% { opacity: 1; }
+	50% { opacity: 0.3; }
+	100% { opacity: 1; }
+}
